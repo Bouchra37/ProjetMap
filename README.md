@@ -13,7 +13,7 @@
 ### Vérification de la base de données
 ![Ajout](./assets/img6.png)
 
-### Affichage des positions dans le Map
+### Affichage des positions dans la Map
 ![affichage](./assets/img4.png)
 ![affichage](./assets/img5.png)
 
